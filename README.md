@@ -10,7 +10,7 @@ In the shader file, you could check the simple shader file(At present I combined
 
 ## I build a frame for a 3D game engine. So far, I have completed the following contents:
 
-Log System and error system:  Helping users to assert in somewhere and users could check the error messages.  
+**Log System and error system**:  Helping users to assert in somewhere and users could check the error messages.  
 
 **Command List**  
 
