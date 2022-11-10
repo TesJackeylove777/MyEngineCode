@@ -1,0 +1,16 @@
+#pragma once
+#include"../../EngineMInimal.h"
+
+enum EPressState
+{
+	Press,       //°´ÏÂ
+	Release,     //ËÉ¿ª
+};
+
+struct FInputKey
+{
+	FInputKey();
+
+	string KeyName;
+	EPressState PressState;
+};
